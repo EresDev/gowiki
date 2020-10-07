@@ -10,9 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cca2cdae-85c1-43c1-97da-f11e64039269" name="Default Changelist" comment="">
+    <list default="true" id="cca2cdae-85c1-43c1-97da-f11e64039269" name="Default Changelist" comment="Listens at port 8080: view using browser">
+      <change afterPath="$PROJECT_DIR$/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestPage.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wiki.exe" beforeDir="false" afterPath="$PROJECT_DIR$/wiki.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wiki.go" beforeDir="false" afterPath="$PROJECT_DIR$/wiki.go" afterDir="false" />
     </list>
@@ -58,6 +59,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Listens at port 8080: view using browser" />
+    <option name="LAST_COMMIT_MESSAGE" value="Listens at port 8080: view using browser" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602057666312">
