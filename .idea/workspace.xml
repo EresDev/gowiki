@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cca2cdae-85c1-43c1-97da-f11e64039269" name="Default Changelist" comment="Added template cache">
+    <list default="true" id="cca2cdae-85c1-43c1-97da-f11e64039269" name="Default Changelist" comment="Title validation using Regexp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wiki.exe" beforeDir="false" afterPath="$PROJECT_DIR$/wiki.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wiki.go" beforeDir="false" afterPath="$PROJECT_DIR$/wiki.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,8 @@
     <MESSAGE value="Added save page action" />
     <MESSAGE value="added error handling" />
     <MESSAGE value="Added template cache" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added template cache" />
+    <MESSAGE value="Title validation using Regexp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Title validation using Regexp" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602230222606">
